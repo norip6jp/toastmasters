@@ -7,7 +7,7 @@
 
 以下のファイルはダウンロードのみ。
 - [議事録のpptxファイル](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/A45%E5%90%88%E5%90%8C%E4%BE%8B%E4%BC%9A%E6%89%93%E5%90%88%E3%81%9B20200913.pptx)
-- [アジェンダのドラフト](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/A45%E5%90%88%E5%90%8C%E4%BE%8B%E4%BC%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0_draft0913.docx)
+- [アジェンダのドラフト(docx)](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/A45%E5%90%88%E5%90%8C%E4%BE%8B%E4%BC%9A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0_draft0913.docx)
 
 
 # 過去のミーティング議事録
