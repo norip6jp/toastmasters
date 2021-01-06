@@ -10,7 +10,7 @@
 * 全体の所要時間の概算：(8 * 10 + 30) * 2 + 20 = 240分なので全部で約4時間といったところでしょうか。なので13-17時ぐらいかな。
 * ルールブックへのリンク：[日本語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/toastmasters-JP1171-speech-contest-rulebook.pdf)  [英語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/toastmasters-1171-speech-contest-rulebook_final-2020-2021.pdf)
 * オンラインコンテストの良いやり方：[日本語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/Online%20Speech%20Contest%20Best%20Practices(%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3).pdf)  [英語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/Best%20Practices%20for%20Online%20Speech%20Contests(2020.11).pdf)
-* D76のコンテスト運営情報：http://district76.org/ja/materials/steering_contest/
+* D76のコンテスト運営情報：https://district76.org/ja/materials/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E9%81%8B%E5%96%B62020-2021/
 * エリアコンテストはオフィシャルなイベントのため会計報告が必要。運営にかかった費用は領収書を取っておいてください。
 * 質問・疑問・不安がありましたら、お気軽に川人へお知らせください。
 
