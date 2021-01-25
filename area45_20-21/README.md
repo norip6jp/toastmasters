@@ -42,6 +42,8 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
 | | VPM | [ ] 小西さん |
 | エリアディレクター  |  |  [〇] 川人 |
 
+役員の皆様、この後は[10時から始まるCOT](https://github.com/MasayukiTanaka0412/DivisionDCOTTLI/blob/main/README.md)に参加しましょうね～！
+
 # 過去のミーティング議事録
 * [9/13 合同例会の打ち合わせ(池上さん)](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/MinutesJointMeeting0913.md)
 * [8/24 合同例会打ち合わせ(WSについて)](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/DiscussionJointMeeting0824.md)
