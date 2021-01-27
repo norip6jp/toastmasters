@@ -11,7 +11,9 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
 ## エリア４５コンテスト情報
 
 * 開催日時：2/21 13時から。完全オンラインで。
-* 有料Zoomアカウント：2/21 12時-18時でDDD田中さんに申請中
+* 有料Zoomアカウント：2/21 12時-18時でDDD田中さんから取得
+   * Join Zoom Meeting https://us02web.zoom.us/j/86013152561?pwd=dmhWdW9SZWs0RXY4TUZnRmQ0OXloUT09
+   * Meeting ID: 860 1315 2561   Passcode: 870602
 * 日本語ホストクラブ：千代田TMC　コンテスト委員長 藤野さん
 * 英語ホストクラブ：日本橋センチュリーTMC
 * クラブからの出場枠：エリア４５は４クラブなので、最大で各クラブ日英２名ずつ（最大で合計、日本語８名、英語８名）
