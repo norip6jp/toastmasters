@@ -41,7 +41,7 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
 | | VPM | [ ] 曽我部さん |
 | One Astellas | 会長 | [〇] 池上さん |
 | | VPE | [〇] 恒川さん |
-| | VPM | [] 柴山さん |
+| | VPM | [〇] 柴山さん |
 | 札幌パイオニア | 会長 | [] 吉田さん |
 | | VPE | [〇] 中山さん |
 | | VPM | [〇] 小西さん |
