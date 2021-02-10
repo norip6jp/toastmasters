@@ -15,13 +15,13 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
    * Join Zoom Meeting https://us02web.zoom.us/j/86013152561?pwd=dmhWdW9SZWs0RXY4TUZnRmQ0OXloUT09
    * Meeting ID: 860 1315 2561   Passcode: 870602
 * 日本語ホストクラブ：千代田TMC
-   * コンテスト委員長 藤野さん(masa.fujino529@gmail.com)
-   * チーフジャッジ　徳永さん(tokunaga3ki@gmail.com)
+   * コンテスト委員長 藤野　理哉さん(masa.fujino529@gmail.com)
+   * チーフジャッジ　徳永　幹さん(tokunaga3ki@gmail.com)
    * インタビュアー　荻野　聡さん
    * 会場係（ZOOM）田中　真幸さん(masayuki.tanaka.0412@gmail.com)
 * 英語ホストクラブ：日本橋センチュリーTMC
-   * コンテスト委員長 新城さん(nampei888@gmail.com)
-   * チーフジャッジ　林さん(yukka884@gmail.com)
+   * コンテスト委員長 新城　南平さん(nampei888@gmail.com)
+   * チーフジャッジ　林　優花さん(yukka884@gmail.com)
 * クラブからの出場枠：エリア４５は４クラブなので、最大で各クラブ日英２名ずつ（最大で合計、日本語８名、英語８名）
 * 全体の所要時間の概算：(8 * 10 + 30) * 2 + 20 = 240分なので全部で約4時間といったところでしょうか。なので13-17時ぐらいかな。
 * ルールブックへのリンク：[日本語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/toastmasters-JP1171-speech-contest-rulebook.pdf)  [英語](https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/toastmasters-1171-speech-contest-rulebook_final-2020-2021.pdf)
