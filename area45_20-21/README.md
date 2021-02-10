@@ -11,7 +11,7 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
 ## エリア４５コンテスト情報
 
 * 開催日時：2/21 13時から。完全オンラインで。
-* 有料Zoomアカウント：2/21 12時-18時でDDD田中さんから取得
+* 有料Zoomアカウント：2/21 12時-21時でDDD田中さんから取得
    * Join Zoom Meeting https://us02web.zoom.us/j/86013152561?pwd=dmhWdW9SZWs0RXY4TUZnRmQ0OXloUT09
    * Meeting ID: 860 1315 2561   Passcode: 870602
 * 日本語ホストクラブ：千代田TMC
