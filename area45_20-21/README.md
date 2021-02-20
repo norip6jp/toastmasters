@@ -11,6 +11,7 @@ https://us04web.zoom.us/j/72214380638?pwd=NUVOMHpxQkFGTjM3ZHJiNytnanNsZz09
 ## エリア４５コンテスト情報
 
 * 開催日時：2/21 13時から。完全オンラインで。
+* 最終アジェンダ：https://github.com/norip6jp/toastmasters/blob/master/area45_20-21/210221%20Area%2045%20Speech%20Contest%20Program%20Final.pdf
 * 有料Zoomアカウント：2/21 12時-21時でDDD田中さんから取得
    * Join Zoom Meeting https://us02web.zoom.us/j/86013152561?pwd=dmhWdW9SZWs0RXY4TUZnRmQ0OXloUT09
    * Meeting ID: 860 1315 2561   Passcode: 870602
